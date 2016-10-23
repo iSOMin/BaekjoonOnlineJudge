@@ -25,7 +25,7 @@ public class RepeatStringTest {
 	}
 }
 
-
+//
 class NewString {
 	int repeatTime;
 	String targetString;
